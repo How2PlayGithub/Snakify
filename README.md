@@ -16,9 +16,9 @@ This project aims to give you all the answers needed for Snakify. You SHOULD NOT
 
 
 <!-- Markdown References -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/How2PlayGithub/Snakify.svg?style=for-the-badge
 [contributors-url]: https://github.com/How2PlayGithub/Snakify/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/How2PlayGithub/Snakify.svg?style=for-the-badge
 [forks-url]: https://github.com/How2PlayGithub/Snakify/forks
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/How2PlayGithub/Snakify.svg?style=for-the-badge
 [stars-url]: https://github.com/How2PlayGithub/Snakify/stargazers
